@@ -4,5 +4,8 @@
 
 #putting in my credentials
 
-git config —global user.email "gloria.stvol@gmail.com"
-git config —global user.name "GloriaCOCO"
+#git config —global user.email "gloria.stvol@gmail.com"
+#git config —global user.name "GloriaCOCO"
+
+git config user.email "gloria.stvol@gmail.com"
+git config user.name "GloriaCOCO"
